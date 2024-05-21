@@ -13,7 +13,7 @@
 - Компьютер и система удовлетворяющие требованиям PyTorch
   - Подробнее на офф. сайте: https://pytorch.org/get-started/locally/
 ### Как это выглядит
-![screen1](https://github.com/Alex-mur/urfu-program-engineering-1/blob/main/screens/scr1.JPG)
+![screen1](https://github.com/Alex-mur/urfu-program-engineering-1/blob/main/screens/Example.png)
 
 ### Как запустить WEB streamlit
 - Установить PyTorch:    https://pytorch.org/get-started/locally/  
